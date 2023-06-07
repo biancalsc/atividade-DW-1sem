@@ -1,0 +1,15 @@
+#meio {
+    text-align: center;
+}
+
+p{
+    font-family: 'Segoe UI';
+    font-size: 25px;
+}
+
+input {
+    border-radius: 5px;
+    border: 3px solid #FF4500;
+    height: 20px;
+    text-align: center;
+}
