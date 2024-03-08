@@ -1,2 +1,2 @@
-# atividade-DW
-Atividade da aula de desenvolvimento web
+# DW activity
+Web Development class activity.
